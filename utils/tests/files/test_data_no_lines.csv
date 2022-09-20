@@ -1,0 +1,2 @@
+time,latitude,longitude,precip
+UTC,degrees_north,degrees_east,mm/(5days)

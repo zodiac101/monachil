@@ -1,0 +1,5 @@
+time,latitude,longitude,precip
+UTC,degrees_north,degrees_east,mm/(5days)
+2021-08-01T00:00:00Z,30.024994,-122.975006,NaN
+2021-08-01T00:00:00Z,30.024994,-122.925,NaN
+2021-08-01T00:00:00Z,30.024994,-122.875,NaN
