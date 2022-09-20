@@ -3,6 +3,8 @@ import requests
 """
     Basic request class
 """
+
+
 class Request:
     def make_get_request(self):
         pass
@@ -16,9 +18,12 @@ class Request:
     def make_delete_request(self):
         pass
 
+
 """
     HTTP request class
 """
+
+
 class HTTPRequest(Request):
     def __init__(self, url=None, params=None, payload=None, headers=None):
         """
